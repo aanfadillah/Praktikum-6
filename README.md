@@ -211,27 +211,31 @@ dataMhs = {}
 # output 
 ini adalah output apabila memilih tambah (t)
 
-<img width="355" alt="screenshot6" src="https://user-images.githubusercontent.com/115542704/203822501-a493e161-5cd8-4095-9c2f-225fae7ac17b.png">
- 
+![t](https://user-images.githubusercontent.com/115763475/204143810-20f478bb-5794-4228-86b4-66cda69b9e63.png)
+
+
 ini adalah output apabila memilih  diubah (u)
 
-<img width="356" alt="screenshot 2" src="https://user-images.githubusercontent.com/115542704/203813676-7bcb5b81-970d-44d0-a245-05a8338ea037.png">
+![U](https://user-images.githubusercontent.com/115763475/204143923-b40ad59d-124d-4c69-ad44-f0e4cb54148a.png)
+
 
 ini adalah output apabila memilih  mencari (c)
 
-<img width="392" alt="screenshot 3" src="https://user-images.githubusercontent.com/115542704/203813876-9eaac216-87e4-4f60-9c28-1fe2be7dabc0.png">
+![C](https://user-images.githubusercontent.com/115763475/204143966-96c665eb-9564-4ac1-a525-5218f59b5a12.png)
+
 
 ini adalah output apabila memilih lihat (l)
 
-<img width="422" alt="screenshot5" src="https://user-images.githubusercontent.com/115542704/203822592-05feefcd-cd90-44e4-8750-1c85b27aafd6.png">
+![outputL](https://user-images.githubusercontent.com/115763475/204143983-49962ab3-0d2d-47da-bbc4-bbff4b16c641.png)
 
 ini adalah output apabila memilih hapus (h) 
 
-<img width="422" alt="screenshot7" src="https://user-images.githubusercontent.com/115542704/203822630-f17dad56-1a22-46e1-a69c-cc95152bef94.png">
+ ![outputH](https://user-images.githubusercontent.com/115763475/204143998-6de98587-2a4c-4f2c-b711-f37ceaa5afa1.png)
 
 ini adalah output apabila memilih keluar (k)
 
-<img width="383" alt="ss 11" src="https://user-images.githubusercontent.com/115542704/203924523-bac9bc1b-c0e2-4ec8-a32f-591f700095a1.png">
+![IMG-20221127-WA0036](https://user-images.githubusercontent.com/115763475/204144056-bc9b7717-bb6d-4c15-b6f3-4d8bbabc550f.jpg)
+
 
 ## SEKIAN TERIMAKASIH
 
