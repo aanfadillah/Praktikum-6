@@ -1,4 +1,4 @@
-## Nama  :Aan Fadillah Putra  
+## Nama  : Aan Fadillah Putra  
 ## NIM   : 312210327
 ## Kelas : TI.22.A3
 # PERTEMUAN 10
@@ -197,7 +197,7 @@ dataMhs = {}
     elif (c.lower() == 'k'):
         print('\n')
         print(21*'=')
-        print("Nama\t: Rini ariza\nKelas\t: TI.22.A3\nNIM\t: 312210337")
+        print("Nama\t: Aan Fadillah Putra\nKelas\t: TI.22.A3\nNIM\t: 312210327")
         print(21*'=')
         break
 ```
